@@ -10,8 +10,9 @@ public class Job{
     private int id;
 
     private String name;
-
+//many to one
     private String employer;
+    //many to many
     private String skills;
 
     public Job() {
