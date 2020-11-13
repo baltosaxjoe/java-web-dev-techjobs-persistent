@@ -1,4 +1,5 @@
 ## Part 1: Test it with SQL
+(int id, Employer employer, String name, List<Skill> skill)
 
 ## Part 2: Test it with SQL
 
