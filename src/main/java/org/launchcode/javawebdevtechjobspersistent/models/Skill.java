@@ -7,6 +7,7 @@ import javax.validation.constraints.Size;
 import java.util.ArrayList;
 import java.util.List;
 
+
 @Entity
 public class Skill extends AbstractEntity {
 
